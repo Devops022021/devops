@@ -1,2 +1,3 @@
 # devops
-New learning devops batch 2020
+My learnings and understanding
+
